@@ -1,9 +1,9 @@
-# Korean-Vocab-Practice
+# Korean Vocabulary Practice
 This Website aims to help you test your Korean Vocabulary.
 
 You can find the Website here: soon :)
 
-What to expect in the future:
+# What to expect in the future:
 
 ## Image Occlusion
 
@@ -17,7 +17,7 @@ Use an interactive 3D scene to test your vocabulary by both naming things and de
 
 ## Additional Exercises
 
-To further work on your Korean, writing exercises that fit the various images and 3D scenes will be provided. If you feel like writing more but don't know what to write you can choose one of the scenes and get some ideas. There won't be any solutions as it's freeform exercises. 
+To further work on your Korean, writing exercises that fit the various images and 3D scenes will be provided. If you feel like writing more but don't know what to write you can choose one of the scenes and get some ideas. There won't be any solutions as it's freeform exercises.
 
 
 ## Group Activities
