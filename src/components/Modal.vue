@@ -31,7 +31,8 @@
     <h1>{{ title }}</h1>
     <p>{{ text }}</p>
     <div class="content">
-      <iframe src="https://www.youtube.com/embed/Sagg08DrO5U?si=6h6qqjMdITXxrs7E" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+      <slot></slot>
     </div>
   </div>
 </div>
@@ -74,7 +75,7 @@
     align-items: center;
     overflow: hidden;
   }
-  .modal iframe {
+  :deep(.modal iframe) {
     display: block;
     aspect-ratio: 16 / 9;
     height: auto;
